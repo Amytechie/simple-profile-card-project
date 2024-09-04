@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.container {
+    background-color: hwb(0 12% 88%);
+    padding: 20px 20px;
+    text-align: center;
+    width: 30%;
+    margin: 2vh auto;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
+
+#location {
+    color: hsl(75, 94%, 57%);
+}
+
+.links {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
